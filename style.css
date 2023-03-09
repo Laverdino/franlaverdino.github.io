@@ -1,0 +1,86 @@
+* {
+    font-family: 'Arial', Courier, monospace;
+    }
+
+body {
+    background-color: rgb(10, 25, 47);
+    margin: 0px;
+}
+
+#input {
+    color:rgb(204, 214, 246);
+    background: none;
+    border-style: none;
+    display: flex;
+    font-size: 120px;
+    margin: auto;
+    border-style: none;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    justify-content: center;
+    cursor:pointer;
+}
+
+.datos {
+    color:rgb(204, 214, 246);
+    font-size: 5em;
+    margin: auto;
+    padding: 25px;
+    cursor:pointer;
+    display: flex;
+    justify-content: center;
+}
+
+.subtitulo {
+    color:rgb(204, 214, 246);
+    font-size: 3em;
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-decoration-line: underline;
+}
+
+#button {
+    background: none;
+    border-style: none;
+    display: contents;
+}
+
+.hidden {
+    display: block !important;
+  }
+
+.real {
+    display: none;
+  }
+
+li {
+    color:rgb(204, 214, 246);
+    text-align: center;
+    font-size: 40px;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-style: none;
+    list-style: none;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#parrafoexp {
+    color:rgb(204, 214, 246);
+    text-align: center;
+    font-size: 40px;
+    padding-left: 25%;
+    padding-right: 25%;
+    border-style: none;
+    list-style: none;
+    margin: auto;
+}
+
+#footer {
+    text-align-last: center;
+    padding: 50px;
+    color:rgb(120, 131, 159);
+    font-size: 20px;
+}
